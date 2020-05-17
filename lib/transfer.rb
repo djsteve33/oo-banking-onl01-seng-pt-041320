@@ -23,5 +23,8 @@ class Transfer
    end
   end
   
+  def reverse_transfer
+    if valid? && receiver.balance
+  
   
  end
