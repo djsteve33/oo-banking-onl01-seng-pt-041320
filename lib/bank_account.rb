@@ -7,5 +7,9 @@ class BankAccount
     @balance = balance
     @status = status
   end
+  
+  def deposit
+    
+  end
 
 end
